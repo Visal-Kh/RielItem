@@ -1,0 +1,12 @@
+settings:
+  collect-sound: ENTITY_EXPERIENCE_ORB_PICKUP
+  collect-particle: true
+
+messages:
+  collected: "បានទទួល {amount} ៛ ចូល Balance!"
+  given: "✅ ផ្តល់ {amount} ៛ ទៅ {player}!"
+  no-permission: "❌ អ្នកមិនមានសិទ្ធិ!"
+  player-not-found: "❌ មិនឃើញ Player: {player}"
+  unknown-denomination: "❌ Denomination មិនត្រឹមត្រូវ!"
+  no-vault: "❌ Vault មិន install!"
+  balance: "💰 Balance: {balance} ៛"
